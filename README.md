@@ -1,3 +1,10 @@
+### Notice
+
+These character sets are informative, not normative. They are guidelines.
+We reserve the right to update, modify, replace or withdraw them at any time without prior notice.
+
+---
+
 # [Adobe Greek Character Sets](http://adobe-type-tools.github.io/adobe-greek-charsets)
 
 ## [Adobe Greek 1](http://adobe-type-tools.github.io/adobe-greek-charsets/adobe-greek-1.html)
